@@ -1,12 +1,12 @@
-import Layout from "../components/Layout"
+
+import Products from "../components/Products"
 
 export default function Home() {
   return (
     <>
-      <Layout>
-
-      </Layout>
-      <h2>funcionando</h2>
+   
+        <Products/>
+   
     </>
   )
 }
